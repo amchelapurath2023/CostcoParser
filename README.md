@@ -1,6 +1,6 @@
 # Costco Wrapped
 
-A script to parse your Costco receipts (PDFs) and create a CSV with all the items you bought.
+A script to parse your Costco receipts (PDFs) and create a CSV with all the items you bought. I forcked this to add an additional check to that discount values were less than the item and added to the exception list.
 
 See the [post on my blog](https://www.pathtosimple.com/is-costco-membership-worth-it) that inspired this.
 
